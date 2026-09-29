@@ -2,7 +2,7 @@
 
 🔥 Junior Web Developer & Full-Stack
 
-🔭 I’m currently studying JavaScript
+🔭 I’m currently studying C# and .NET
 
 <div>
   <a href="https://github.com/Mnovis/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mnovis&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Mnovis's github stats" /></a> | <a href="https://github.com/Mnovis/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnovis&layout=compact&theme=dracula&hide_border=true" /></a> |
